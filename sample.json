@@ -1,0 +1,170 @@
+{
+    "results": {
+      "quick_picks": [
+        {
+          "videoId": "P7z1fKkW0j8",
+          "title": "Dawai (From \"Air Mata Di Ujung Sajadah\")",
+          "thumbnail": "https://lh3.googleusercontent.com/eg_5Dx05ducBkfq6ljauyCKSCYg0m-uIu31P2PSazNZe4jzqZY5NnHU8OwsgnzolKEOpb9BiNx6yIr70Nw=w120-h120-l90-rj",
+          "author": "Fadhilah Intan",
+          "isExplicit": false
+        },
+       
+      ],
+      "music_this_year": {
+        "title": "This year in music",
+        "strapline": "THE HITS OF 2023",
+        "list": [
+          {
+            "playlistId": "VLRDCLAK5uy_kaYR5k7pkTcxU8A6Tgz0Z4ikrAF2uTIiU",
+            "title": "Pop Hits 2023",
+            "thumbnail": "https://lh3.googleusercontent.com/R0hJCql1ZAm5DuoNPCEEXCG31CmyrAHni7fcORWMtI0BcIld0AZY83lpiZAaTHBHhtVA-sMuqq3RCtiC=w544-h544-l90-rj",
+            "subtitle": "Taylor Swift, SZA, Olivia Rodrigo, Tate McRae"
+          },
+          
+        ]
+      },
+      "new_release_albums": [
+        {
+          "browseId": "MPREb_6Pf402hO7Y6",
+          "title": "BORN TO BE",
+          "thumbnail": "https://lh3.googleusercontent.com/flo07sz4oDT6erAE8dbtUidIfP__1eYyOJ1cYgeCb2ix6HW-wv_vyuh_QKleltR9WwmFoKHSKHim8ENj=w544-h544-l90-rj",
+          "subtitle": "Album • ITZY",
+          "playlistId": "OLAK5uy_kodvKuHY1aewMdiU6SsGfQ08sYIzCDsSk",
+          "isExplicit": false
+        },
+        
+      ],
+      "charts": {
+        "top_music_video": {
+          "header": {
+            "text": "Top music videos",
+            "navigationEndpoint": {
+              "clickTrackingParams": "COAJEIi8BCITCMuO-9L014MDFTHZcwEdhZECjQ==",
+              "browseEndpoint": {
+                "browseId": "VLPL4fGSI1pDJn5QPpj0R4vVgRWk8sSq549G",
+                "browseEndpointContextSupportedConfigs": {
+                  "browseEndpointContextMusicConfig": {
+                    "pageType": "MUSIC_PAGE_TYPE_PLAYLIST"
+                  }
+                }
+              }
+            }
+          },
+          "list": [
+            {
+              "videoId": "jia3fhBQ8qI",
+              "title": "penjaga hati",
+              "thumbnail": "https://i.ytimg.com/vi/jia3fhBQ8qI/hq720.jpg?sqp=-oaymwEXCKAGEMIDIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nD03SqhdyqhJdbXBzUT-djAJh-Jw",
+              "subtitle": "Nadhif Basalamah • 42M views",
+              "customIndexColumn": "1",
+              "isNeutral": true,
+              "isDropUp": false,
+              "isDropDown": false
+            }
+          ]
+        },
+        "top_artist": {
+          "header": {
+            "text": "Top artists"
+          },
+          "list": [
+            {
+              "channelId": "UCdYcs6t44JKo08jbSmuroRQ",
+              "title": "Shinta Arsinta",
+              "thumbnail": "https://lh3.googleusercontent.com/cIhIGTFJ9lwT9gZwsppc3KVM5kQtROYSZP4M7R3GxFboF7jdAb1RnOuWCBKCINNcNbFTOSRffQ9yrbFQ=w120-h120-l90-rj",
+              "subscriberText": "89.1K subscribers",
+              "customIndexColumn": "1",
+              "isNeutral": true,
+              "isDropUp": false,
+              "isDropDown": false
+            }
+          ]
+        }
+      },
+      "mood_and_genres": [
+        {
+          "gridRenderer": {
+            "items": [
+              {
+                "musicNavigationButtonRenderer": {
+                  "buttonText": {
+                    "runs": [
+                      {
+                        "text": "Chill"
+                      }
+                    ]
+                  },
+                  "solid": {
+                    "leftStripeColor": 4288988671
+                  },
+                  "clickCommand": {
+                    "clickTrackingParams": "CCIQuKEFGAAiEwi0yonT9NeDAxWksdgFHWPOAwQ=",
+                    "browseEndpoint": {
+                      "browseId": "FEmusic_moods_and_genres_category",
+                      "params": "ggMPOg1uX1JOQWZFeDByc2Jm"
+                    }
+                  },
+                  "trackingParams": "CCIQuKEFGAAiEwi0yonT9NeDAxWksdgFHWPOAwQ="
+                }
+              }
+            ],
+            "trackingParams": "CBgQ6IsCGAAiEwi0yonT9NeDAxWksdgFHWPOAwQ=",
+            "itemSize": "COLLECTION_STYLE_ITEM_SIZE_MEDIUM",
+            "header": {
+              "gridHeaderRenderer": {
+                "title": {
+                  "runs": [
+                    {
+                      "text": "Moods & moments"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "gridRenderer": {
+            "items": [
+              {
+                "musicNavigationButtonRenderer": {
+                  "buttonText": {
+                    "runs": [
+                      {
+                        "text": "African"
+                      }
+                    ]
+                  },
+                  "solid": {
+                    "leftStripeColor": 4278232339
+                  },
+                  "clickCommand": {
+                    "clickTrackingParams": "CBcQuKEFGAAiEwi0yonT9NeDAxWksdgFHWPOAwQ=",
+                    "browseEndpoint": {
+                      "browseId": "FEmusic_moods_and_genres_category",
+                      "params": "ggMPOg1uX0UzWGxlRE5jMDVk"
+                    }
+                  },
+                  "trackingParams": "CBcQuKEFGAAiEwi0yonT9NeDAxWksdgFHWPOAwQ="
+                }
+              },
+              
+            ],
+            "trackingParams": "CAQQ6IsCGAEiEwi0yonT9NeDAxWksdgFHWPOAwQ=",
+            "itemSize": "COLLECTION_STYLE_ITEM_SIZE_MEDIUM",
+            "header": {
+              "gridHeaderRenderer": {
+                "title": {
+                  "runs": [
+                    {
+                      "text": "Genres"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
